@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.resim1 {
+    background-image: url('../public/img/project-1.png');
+}

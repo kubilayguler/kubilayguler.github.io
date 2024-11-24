@@ -1,0 +1,16 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+.section {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.resim1 {
+    background-image: url('../../public/img/project-1.png');
+    
+}
+html {
+    scroll-behavior: smooth;
+}
