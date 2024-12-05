@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1af7bc09-e5d4-4933-be6d-0793030cc535)# This is my personal website (portfolio) project.
+# This is my personal website (portfolio) project.
 
 ## [https://kubilayguler.me](https://kubilayguler.me/)
 
