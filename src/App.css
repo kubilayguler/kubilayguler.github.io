@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-.resim1 {
+.bg-project-1 {
     background-image: url('../public/img/project-1.png');
+}
+.bg-project-2 {
+    background-image: url('../public/img/project-2.png');
+}
+.bg-project-3 {
+    background-image: url('../public/img/project-3.png');
 }
