@@ -3,22 +3,11 @@
 @tailwind base;
 
 .section {
-<<<<<<< HEAD
     padding-left: 10%;
     padding-right: 10%;
 }
 
 
-=======
-    padding-left: 5%;
-    padding-right: 5%;
-}
-
-.resim1 {
-    background-image: url('../../public/img/project-1.png');
-    
-}
->>>>>>> db9acf51d742b56cd1acc9d9fd0543d6b213cb82
 html {
     scroll-behavior: smooth;
 }

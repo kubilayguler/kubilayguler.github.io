@@ -1,10 +1,6 @@
 {
   "homepage": "https://kubilayguler.github.io",
-<<<<<<< HEAD
   "name": "personal-website",
-=======
-  "name": "getir-project",
->>>>>>> db9acf51d742b56cd1acc9d9fd0543d6b213cb82
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -13,10 +9,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^10.4.0",
-<<<<<<< HEAD
-=======
-    "flowbite": "^2.5.2",
->>>>>>> db9acf51d742b56cd1acc9d9fd0543d6b213cb82
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3",
