@@ -94,7 +94,7 @@ function MainPage() {
             <div className='w-full max-w-screen-lg grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 justify-items-center'>
               {/* 1. Proje */}
               <a
-                href='https://github.com/kubilayguler/weather/'
+                href='https://github.com/kubilayguler/kubilayguler.github.io'
                 className='bg-project-1 bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-75 rounded-lg border-2 border-kgold hover:scale-105 hover:brightness-100'
               ></a>
 
@@ -110,6 +110,12 @@ function MainPage() {
                 className='bg-project-3 bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-75 rounded-lg border-2 border-kgold hover:scale-105 hover:brightness-100'
               ></a>
 
+              {/* 4. Proje */}
+              <a
+                href='https://github.com/kubilayguler/weather'
+                className='bg-project-4 bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-75 rounded-lg border-2 border-kgold hover:scale-105 hover:brightness-100'
+              ></a>
+
               {/* Boş kutu (1) */}
               <div className='bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-50 rounded-lg border-2 border-kwhite flex items-center justify-center'>
                 <h1 className='text-2xl md:text-4xl lg:text-5xl text-kwhite italic font-bold text-center'>
@@ -118,13 +124,6 @@ function MainPage() {
               </div>
 
               {/* Boş kutu (2) */}
-              <div className='bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-50 rounded-lg border-2 border-kwhite flex items-center justify-center'>
-                <h1 className='text-2xl md:text-4xl lg:text-5xl text-kwhite italic font-bold text-center'>
-                  EMPTY
-                </h1>
-              </div>
-
-              {/* Boş kutu (3) */}
               <div className='bg-cover bg-center w-full h-[250px] max-w-[300px] relative overflow-hidden transition duration-300 transform brightness-50 rounded-lg border-2 border-kwhite flex items-center justify-center'>
                 <h1 className='text-2xl md:text-4xl lg:text-5xl text-kwhite italic font-bold text-center'>
                   EMPTY
