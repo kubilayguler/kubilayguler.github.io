@@ -11,7 +11,7 @@ function Navbar() {
     <nav className='bg-kdark fixed w-full z-10 top-0 border-b border-kgold'>
       <div className='max-w-screen-xl flex items-center justify-between mx-auto p-4'>
         <a
-          href='/KUBILAYGULER-CV.pdf'
+          href='/KUBILAY-GULER-CV.pdf'
           target='_blank'
           className='flex items-center space-x-2 p-3 text-2xl font-semibold text-white transition-all duration-100 hover:scale-110'
         >
